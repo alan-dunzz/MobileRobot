@@ -6,7 +6,7 @@ This project contains all files developed during coursework in Marco Antonio Neg
 ![command2](https://github.com/user-attachments/assets/2cddfdb8-c6ac-4294-82b5-d19a73814f21)
 * Determining the centroid of the desired object through images captured on camera.\
 ![centroid](https://github.com/user-attachments/assets/a8aa0e8a-daaf-4db8-90e9-62f16566f19e)
-* Object manipulation.\n
+* Object manipulation.\
 ![manipulation](https://github.com/user-attachments/assets/91b5d56e-638f-4bc0-927a-f98d04c955e5)
 * Autonomous navigation from starting point to location indicated through voice command.\
 ![navigation](https://github.com/user-attachments/assets/93185825-94f1-4986-a6ce-a62ace7a54f3)
